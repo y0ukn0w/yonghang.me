@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[yonghang.xu]]></title>
+  <link href="http://yonghang.me/atom.xml" rel="self"/>
+  <link href="http://yonghang.me/"/>
+  <updated>2013-03-16T10:27:46+08:00</updated>
+  <id>http://yonghang.me/</id>
+  <author>
+    <name><![CDATA[y0ukn0w]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://yonghang.me/blog/2013/03/16/hello-world/"/>
+    <updated>2013-03-16T10:25:00+08:00</updated>
+    <id>http://yonghang.me/blog/2013/03/16/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
