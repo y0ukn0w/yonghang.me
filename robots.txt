@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://y0ukn0w.github.com/yonghang/sitemap.xml 
