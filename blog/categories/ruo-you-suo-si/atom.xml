@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[y0ukn0w::blog]]></title>
-  <link href="http://yonghang.me/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 若有所思 | y0ukn0w::blog]]></title>
+  <link href="http://yonghang.me/blog/categories/ruo-you-suo-si/atom.xml" rel="self"/>
   <link href="http://yonghang.me/"/>
   <updated>2013-04-01T14:14:03+08:00</updated>
   <id>http://yonghang.me/</id>
@@ -50,9 +50,9 @@
 
 <p>大学在Miss Feng的英语课上，看过<a href="http://movie.douban.com/subject/1291548/"><em>Dead Poet Society</em></a>。台词人物都忘得差不多了，唯独记得一句话:<code>Carpe diem</code>。这是拉丁语，英文就是<code>Seize the days</code>的意思。当时特地找来原诗看，公元前的<a href="http://en.wikipedia.org/wiki/Carpe_diem">作品</a>：</p>
 
-<blockquote><p>Don&#8217;t ask (it&#8217;s forbidden to know) what end</p>
+<blockquote><p>Don't ask (it's forbidden to know) what end</p>
 
-<p>the gods have granted to me or you, Leuconoe. Don&#8217;t play with Babylonian</p>
+<p>the gods have granted to me or you, Leuconoe. Don't play with Babylonian</p>
 
 <p>fortune-telling either. How much better it is to endure whatever will be!</p>
 
@@ -72,7 +72,7 @@
 
 <p>05年Stanford<a href="http://v.youku.com/v_show/id_XMjQ4MzkwMjIw.html">毕业典礼</a>上，Steve Jobs对年轻学子们说:</p>
 
-<blockquote><p><strong>If you live each day as if it was your last, someday you&#8217;ll most certainly be right</strong></p></blockquote>
+<blockquote><p><strong>If you live each day as if it was your last, someday you'll most certainly be right</strong></p></blockquote>
 
 <p>也是这次演讲中，Steve Jobs说:<code>Stay hungry, stay foolish</code>。海伦・凯勒问如果可以有三天光明，而我们只是假装把每一天当成最后一天而已。所谓「被偏爱的都有恃无恐」。</p>
 
@@ -106,20 +106,11 @@
 
 <p>就像Lonely Planet的创始人Tony Wheeler说的那样:</p>
 
-<blockquote><p>All you&#8217;ve got to do is decide to go and the hardest part is over.</p></blockquote>
+<blockquote><p>All you've got to do is decide to go and the hardest part is over.</p></blockquote>
 
 <p>愿你的征途是星辰大海。</p>
 
 <p><img src="http://img.dayanjia.com/di/3WF5/star.jpg" alt="look how they shine for you" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yonghang.me/blog/2013/03/hello-world/"/>
-    <updated>2013-03-16T10:25:00+08:00</updated>
-    <id>http://yonghang.me/blog/2013/03/hello-world</id>
-    <content type="html"><![CDATA[<p>doubanclaim44838a4d6f539b90</p>
 ]]></content>
   </entry>
   
